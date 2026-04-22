@@ -15,14 +15,12 @@ Projekt do nauki podstaw DevOps:
 - użycie komend: ls, cd, grep, chmod
 - zarządzanie repozytorium Git
 
-
 ## Jak uruchomić
 
 ```bash
 chmod +x script.sh
 ./script.sh
-
-```md
+```
 
 ## Struktura projektu
 
