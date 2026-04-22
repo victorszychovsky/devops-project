@@ -15,11 +15,19 @@ Projekt do nauki podstaw DevOps:
 - użycie komend: ls, cd, grep, chmod
 - zarządzanie repozytorium Git
 
+
 ## Jak uruchomić
-Projekt wykonywany w środowisku Linux (terminal)
-## Bash
-- nano script.sh
-- #!/bin/bash
-echo "Hello DevOps"
-- chmod +x script.sh
-- ./script.sh
+
+```bash
+chmod +x script.sh
+./script.sh
+
+```md
+
+## Struktura projektu
+
+devops-project/
+
+├── README.md
+
+├── script.sh
