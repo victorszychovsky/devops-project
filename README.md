@@ -18,8 +18,8 @@ Projekt do nauki podstaw DevOps:
 ## Jak uruchomić
 Projekt wykonywany w środowisku Linux (terminal)
 ## Bash
-nano script.sh
-#!/bin/bash
+- nano script.sh
+- #!/bin/bash
 echo "Hello DevOps"
-chmod +x script.sh
-./script.sh
+- chmod +x script.sh
+- ./script.sh
